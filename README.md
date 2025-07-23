@@ -3,7 +3,7 @@
 
 This repository contains all the tasks I completed during my **1-month virtual internship** in the **Cyber Security track** offered by **Future Interns**. Each task was hands-on and focused on real-world cybersecurity practices including ethical hacking, log analysis, and secure development.
 
-
+---
 
  Task 1: Web Application Security TesObjective:** Identify and exploit common vulnerabilities in a sample web application.
 
@@ -21,7 +21,7 @@ Burp Suite, OWASP Juice Shop, SQLMap, browser DevTools
 **Deliverable:**  
 Detailed security report with screenshots, findings, and mitigation strategies.
 
-
+---
 
 Task 2: Security Log Analysis using Splunk
 
@@ -56,6 +56,7 @@ Python, Flask, PyCryptodome, HTML/CSS
 **Deliverable:**  
 Fully working Flask app with AES encryption, a GitHub repo, and a security overview document.
 
+---
 
 **Summary**
 
