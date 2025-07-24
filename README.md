@@ -5,7 +5,8 @@ This repository contains all the tasks I completed during my **1-month virtual i
 
 ---
 
- Task 1: Web Application Security TesObjective:** Identify and exploit common vulnerabilities in a sample web application.
+ **Task 1: Web Application Security Testing:**
+ **Objective:** Identify and exploit common vulnerabilities in a sample web application.
 
 **Vulnerabilities Exploited:**
 **SQL Injection (SQLi):**  
