@@ -5,7 +5,8 @@ This repository contains all the tasks I completed during my **1-month virtual i
 
 ---
 
- **Task 1: Web Application Security Testing:**
+ **Task 1: Web Application Security Testing**
+
  **Objective:** Identify and exploit common vulnerabilities in a sample web application.
 
 **Vulnerabilities Exploited:**
@@ -24,7 +25,7 @@ Detailed security report with screenshots, findings, and mitigation strategies.
 
 ---
 
-Task 2: Security Log Analysis using Splunk
+**Task 2: Security Log Analysis using Splunk**
 
 **Objective:** Analyze real system logs using Splunk to detect suspicious activity.
 
@@ -42,7 +43,7 @@ Incident response report with analysis, insights, and charts.
 
 ---
 
-Task 3: Secure File Sharing System (AES Encryption)
+**Task 3: Secure File Sharing System (AES Encryption)**
 
 **Objective:** Build a secure portal to upload and download files with encryption.
 
